@@ -1,0 +1,32 @@
+C:\Users\brooh\Documents\ICS3U\Assignments\Culminating\Platform Game\bin\Debug\Platform Game.exe.config
+C:\Users\brooh\Documents\ICS3U\Assignments\Culminating\Platform Game\bin\Debug\Platform Game.exe
+C:\Users\brooh\Documents\ICS3U\Assignments\Culminating\Platform Game\bin\Debug\Platform Game.pdb
+C:\Users\brooh\Documents\ICS3U\Assignments\Culminating\Platform Game\obj\Debug\Platform Game.csprojResolveAssemblyReference.cache
+C:\Users\brooh\Documents\ICS3U\Assignments\Culminating\Platform Game\obj\Debug\Platform_Game.Form1.resources
+C:\Users\brooh\Documents\ICS3U\Assignments\Culminating\Platform Game\obj\Debug\Platform_Game.Properties.Resources.resources
+C:\Users\brooh\Documents\ICS3U\Assignments\Culminating\Platform Game\obj\Debug\Platform Game.csproj.GenerateResource.Cache
+C:\Users\brooh\Documents\ICS3U\Assignments\Culminating\Platform Game\obj\Debug\Platform Game.exe
+C:\Users\brooh\Documents\ICS3U\Assignments\Culminating\Platform Game\obj\Debug\Platform Game.pdb
+C:\Users\brooh\Documents\ICS3U\Assignments\Culminating\Platform Game\obj\Debug\Platform_Game.Resource1.resources
+C:\Users\jarig\Documents\ICS3U\test cpt\Platform Game\bin\Debug\Platform Game.exe.config
+C:\Users\jarig\Documents\ICS3U\test cpt\Platform Game\obj\Debug\Platform Game.exe
+C:\Users\jarig\Documents\ICS3U\test cpt\Platform Game\obj\Debug\Platform Game.pdb
+C:\Users\jarig\Documents\ICS3U\test cpt\Platform Game\bin\Debug\Platform Game.exe
+C:\Users\jarig\Documents\ICS3U\test cpt\Platform Game\bin\Debug\Platform Game.pdb
+C:\Users\jarig\Documents\ICS3U\test cpt\Platform Game\obj\Debug\Platform Game.csprojResolveAssemblyReference.cache
+C:\Users\jarig\Documents\ICS3U\test cpt\Platform Game\obj\Debug\Platform_Game.Form1.resources
+C:\Users\jarig\Documents\ICS3U\test cpt\Platform Game\obj\Debug\Platform_Game.Properties.Resources.resources
+C:\Users\jarig\Documents\ICS3U\test cpt\Platform Game\obj\Debug\Platform_Game.Resource1.resources
+C:\Users\jarig\Documents\ICS3U\test cpt\Platform Game\obj\Debug\Platform Game.csproj.GenerateResource.Cache
+C:\Users\jarig\Documents\ICS3U\test cpt\Platform Game\obj\Debug\Platform_Game.Resource2.resources
+C:\Users\jarig\Documents\ICS3U\test cpt\Culminating\bin\Debug\Platform Game.exe.config
+C:\Users\jarig\Documents\ICS3U\test cpt\Culminating\obj\Debug\Platform Game.exe
+C:\Users\jarig\Documents\ICS3U\test cpt\Culminating\obj\Debug\Platform Game.pdb
+C:\Users\jarig\Documents\ICS3U\test cpt\Culminating\bin\Debug\Platform Game.exe
+C:\Users\jarig\Documents\ICS3U\test cpt\Culminating\bin\Debug\Platform Game.pdb
+C:\Users\jarig\Documents\ICS3U\test cpt\Culminating\obj\Debug\Platform Game.csprojResolveAssemblyReference.cache
+C:\Users\jarig\Documents\ICS3U\test cpt\Culminating\obj\Debug\Platform_Game.Form1.resources
+C:\Users\jarig\Documents\ICS3U\test cpt\Culminating\obj\Debug\Platform_Game.Properties.Resources.resources
+C:\Users\jarig\Documents\ICS3U\test cpt\Culminating\obj\Debug\Platform_Game.Resource1.resources
+C:\Users\jarig\Documents\ICS3U\test cpt\Culminating\obj\Debug\Platform_Game.Resource2.resources
+C:\Users\jarig\Documents\ICS3U\test cpt\Culminating\obj\Debug\Platform Game.csproj.GenerateResource.Cache
